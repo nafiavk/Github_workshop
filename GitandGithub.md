@@ -49,3 +49,25 @@ untracked: Is a complete new file has never `add` not `commit`
 Just writing few lines to commit without a message
 
 git log
+
+
+
+
+
+git status : check in what conceptual area my file/folder is
+
+git log: show the history of commits/ show all that you have saved in yoiur local repository/ shows you in the terminal what ugit shows in an interface
+
+-`git log -n N`
+
+-`git log --abrevv-commit`
+
+-`git log --help`
+
+git show:  shows the commits that you asked for comparison
+
+-`git show id1 id2`
+
+git diff: show the difference between, line by line with commit ids
+
+-`git diff id1 id2`
