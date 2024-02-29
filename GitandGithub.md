@@ -37,3 +37,5 @@ git config --list
 git config --global user.name "Nafia"
 
 git config --global
+
+git status       ( to see the status of files {unstaged,untracked})
