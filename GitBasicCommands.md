@@ -22,4 +22,12 @@ git diff
 
 git reset filename ( to un unstage)
 
+git remote add name SSH
+
+git push
+
+git push --set-upstream name_link master
+
+git reset (unstage all the files)
+
 
