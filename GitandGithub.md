@@ -31,3 +31,9 @@ Things to take care:
 - .git ( is a local repository where all the updates are saved)
 
 - staging area
+
+git config --list  
+
+git config --global user.name "Nafia"
+
+git config --global
