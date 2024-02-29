@@ -45,3 +45,7 @@ to be staged: You have committed it before, made changes later and git recognise
 to be committed: You have committed it before, made changes later and git recognise the new changes as `add` not `commit`
 
 untracked: Is a complete new file has never `add` not `commit`
+
+Just writing few lines to commit without a message
+
+git log
