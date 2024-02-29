@@ -38,4 +38,10 @@ git config --global user.name "Nafia"
 
 git config --global
 
-git status       ( to see the status of files {unstaged,untracked})
+git status       ( to see the status of files {to be staged,to be committed, untracked})
+
+to be staged: You have committed it before, made changes later and git recognise the new changes are not yet `add` not `commit`
+
+to be committed: You have committed it before, made changes later and git recognise the new changes as `add` not `commit`
+
+untracked: Is a complete new file has never `add` not `commit`
