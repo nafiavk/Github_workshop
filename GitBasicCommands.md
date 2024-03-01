@@ -30,7 +30,9 @@ git push --set-upstream name_link master
 
 git reset (unstage all the files)
 
+git pull
 
+git clone
 
 git branch <branch name>  (to create branch)
 
