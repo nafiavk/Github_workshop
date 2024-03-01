@@ -77,15 +77,3 @@ git diff: show the difference between, line by line with commit ids
 HTTPS: only for visualisation
 
 SSH: has all the authorisationffffssss
-
-Adding unintentional comflictsssss
-
-ffffssss
-
-more conflictsssffffssss
-
-ffffssssffffssssmore conflictshhhhhhhhhhhh
-
-fffffssss
-
-more and more .................................ffffssss
