@@ -80,4 +80,10 @@ SSH: has all the authorisation
 
 
 
-git status
+
+
+
+
+
+
+Adding unintentional comflictsssss
