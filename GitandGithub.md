@@ -77,3 +77,7 @@ git diff: show the difference between, line by line with commit ids
 HTTPS: only for visualisation
 
 SSH: has all the authorisation
+
+
+
+git status
