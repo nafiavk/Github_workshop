@@ -81,3 +81,8 @@ SSH: has all the authorisation
 
 
 git status
+
+
+
+
+what a conflict   ha ha  doc2
