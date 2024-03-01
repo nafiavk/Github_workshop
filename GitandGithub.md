@@ -24,13 +24,15 @@ Things to take care:
 
 - dont move any sub folder out of the folder unless not required further
 
-## Conceptual areas (Developing area, staging area and Local repository)
+## Conceptual areas (Developing area, staging area ,Local repository and Remote repository)
 
 - Developing area: In the system, where the file is developed (pwd)
 
 - .git ( is a local repository where all the updates are saved)
 
 - staging area
+
+- Remote repository (back up space eg: Github)
 
 git config --list  
 
@@ -68,6 +70,10 @@ git diff: show the difference between, line by line with commit ids
 
 -`git diff id1 id2`
 
-README.txt
+**README.txt or README.md** : where I should describe my project, code, main goals, usage etc..  A good idea to add links and directions for data that should be related
 
-.gitignorev
+**.gitignorev** : A text file with no extension that should always in non-caps
+
+HTTPS: only for visualisation
+
+SSH: has all the authorisation
