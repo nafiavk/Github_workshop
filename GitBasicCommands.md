@@ -29,3 +29,19 @@ git push
 git push --set-upstream name_link master
 
 git reset (unstage all the files)
+
+
+
+git branch <branch name>  (to create branch)
+
+git checkout <branch name> (to switch between branches)
+
+ git push --set-upstream origin <branch name> ( to let know github about new branch)
+
+git checkout <commit ID> ( to switch to any commit points)
+
+git switch -c <new branch name> ( to create a branch at some commit points which are not heads)
+
+git branch -a ( to see the present working branch)
+
+git branch --list
